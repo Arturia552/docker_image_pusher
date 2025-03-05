@@ -1,2 +1,6 @@
 nginx
-thingsboard
+thingsboard/tb-postgres
+redis:7
+mysql:8
+openjdk:8
+minio/minio
