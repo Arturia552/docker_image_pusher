@@ -4,3 +4,6 @@ redis:7
 mysql:8
 openjdk:8
 minio/minio
+quay.io/influxdb/influxdb3-core
+openjdk:21
+openjdk:17
