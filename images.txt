@@ -7,3 +7,5 @@ minio/minio
 quay.io/influxdb/influxdb3-core
 openjdk:21
 openjdk:17
+rust
+alpine
