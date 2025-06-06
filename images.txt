@@ -11,3 +11,4 @@ rust
 alpine
 apache/iotdb:1.3.3-standalone
 debian:bullseye-slim
+tdengine/tdengine
